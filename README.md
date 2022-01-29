@@ -27,4 +27,4 @@ Epiphany is a personalized Twitch resources recommendation engine. Users can sea
 * [Twitch API docs](https://dev.twitch.tv/docs/api/)
 
 <br><em>Eric</em>
-<br><br>December 28, 2021
+<br><br>December 27, 2021
